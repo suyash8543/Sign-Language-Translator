@@ -4,5 +4,4 @@ opencv-python
 fastapi
 uvicorn
 threaded
-realtime
 python-multipart
