@@ -1,6 +1,5 @@
 tensorflow
 scikit-learn
-os
 opencv-python
 fastapi
 uvicorn
