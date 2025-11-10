@@ -5,4 +5,4 @@ fastapi
 uvicorn
 threaded
 realtime
-pyhton-multipart
+python-multipart
